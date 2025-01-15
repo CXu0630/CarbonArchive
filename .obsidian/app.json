@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "03_Images"
+  "attachmentFolderPath": "00_Resources/Images",
+  "showUnsupportedFiles": true
 }
