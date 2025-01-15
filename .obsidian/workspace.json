@@ -11,17 +11,36 @@
             "id": "34c9fc83683c6428",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Carbon Archive.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Carbon Archive"
+            }
+          },
+          {
+            "id": "9c9afcbcbfcc2c96",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "99_Templates/Data.md",
-                "mode": "preview",
-                "source": true
+                "file": "00_Sketch Pad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Data"
+              "title": "00_Sketch Pad"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,18 +192,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34c9fc83683c6428",
+  "active": "e2496786a34d7b61",
   "lastOpenFiles": [
+    "00_Resources/Initiatives",
+    "00_Resources/Material Databases",
+    "00_Resources/Regulations",
+    "00_Resources/Carbon Primer for Architects",
+    "00_Resources",
     "Carbon Archive.canvas",
-    "05_Canvas",
-    "99_Templates/Data.md",
-    "03_Images",
-    "99_Templates",
-    "New Text Document.txt",
-    "04_Tags",
-    "01_Information/Definition",
-    "01_Information/Data",
-    "02_Resources",
-    "01_Information"
+    "00_Sketch Pad.md",
+    "00_Categories",
+    "00_Templates/Data.md",
+    "README.md",
+    "Carbon Primer for Architects",
+    "Initiatives",
+    "Regulations",
+    "Material Databases",
+    "05_Canvas"
   ]
 }
