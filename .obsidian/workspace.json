@@ -8,6 +8,38 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9c9afcbcbfcc2c96",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Sketch Pad.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "00_Sketch Pad"
+            }
+          },
+          {
+            "id": "9e7b15f41b300eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Notes/Week 1 - Progress.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 1 - Progress"
+            }
+          },
+          {
             "id": "34c9fc83683c6428",
             "type": "leaf",
             "state": {
@@ -25,21 +57,6 @@
             }
           },
           {
-            "id": "9c9afcbcbfcc2c96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Notes/Week 1 - Progress.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 1 - Progress"
-            }
-          },
-          {
             "id": "7665f8cf415a2e78",
             "type": "leaf",
             "state": {
@@ -54,8 +71,7 @@
               "title": "The AIA 2030 Commitment"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,12 +223,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7665f8cf415a2e78",
+  "active": "9c9afcbcbfcc2c96",
   "lastOpenFiles": [
+    "00_Resources/Initiatives/The AIA 2030 Commitment.md",
+    "Carbon Archive.canvas",
     "00_Notes/Week 1 - Progress.md",
     "00_Sketch Pad.md",
-    "Carbon Archive.canvas",
-    "00_Resources/Initiatives/The AIA 2030 Commitment.md",
     "00_Resources/Initiatives/Architecture 2030.md",
     "00_Resources/Carbon Primer for Architects/AIA-CLF Embodied Carbon Toolkit for Architects.md",
     "00_Resources/Images",
