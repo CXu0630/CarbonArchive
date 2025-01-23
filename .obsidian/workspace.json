@@ -87,8 +87,24 @@
               "icon": "lucide-file",
               "title": "Synergia"
             }
+          },
+          {
+            "id": "45432aae7f13bca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_WIP/Material Databases/Athena.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Athena"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -240,13 +256,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5154b702107ebc1b",
+  "active": "45432aae7f13bca5",
   "lastOpenFiles": [
+    "00_WIP/Home.md",
     "00_WIP/Material Databases/Synergia.md",
     "00_WIP/Materials",
     "00_WIP/Material Databases/Ecoinvent.md",
     "00_WIP/Regulations/DAIA.md",
-    "00_WIP/Home.md",
     "00_WIP/Material Databases/ICE.md",
     "00_WIP/Material Databases/IBO.md",
     "00_WIP/Material Databases/GaBi.md",
