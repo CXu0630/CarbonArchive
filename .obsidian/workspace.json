@@ -45,13 +45,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Resources/Initiatives/Grace Farms - Design for Freedom.md",
+                "file": "00_Resources/Material Databases/EC3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grace Farms - Design for Freedom"
+              "title": "EC3"
+            }
+          },
+          {
+            "id": "839951a90fa6a371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Resources/Material Databases/Ecoinvent.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ecoinvent"
+            }
+          },
+          {
+            "id": "2991b5d0c704b2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Resources/Material Databases/IBO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IBO"
+            }
+          },
+          {
+            "id": "913e92beeb26c8db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Resources/Carbon Primer for Architects/EIO-based Data.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EIO-based Data"
+            }
+          },
+          {
+            "id": "1779a295705bf0f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -70,54 +130,9 @@
               "icon": "lucide-layout-dashboard",
               "title": "Carbon Archive"
             }
-          },
-          {
-            "id": "7dbd0551442750b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Resources/Publications/World Building Life-Cycle Based Databases and Repositories for the Building and Construction Sector.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "World Building Life-Cycle Based Databases and Repositories for the Building and Construction Sector"
-            }
-          },
-          {
-            "id": "265fe9da20832180",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Resources/Publications/Comparison of life cycle assessment databases.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Comparison of life cycle assessment databases"
-            }
-          },
-          {
-            "id": "42a095b520ece5cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Resources/Publications/LCA databases focused on construction materials - A Review.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LCA databases focused on construction materials - A Review"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -269,28 +284,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e9522eb98b2d7b0",
+  "active": "1779a295705bf0f2",
   "lastOpenFiles": [
-    "00_Resources/Initiatives/Architecture 2030.md",
-    "00_Resources/Initiatives/Grace Farms - Design for Freedom.md",
-    "00_Notes/Week 1 - Progress.md",
+    "00_Templates/Database.md",
     "Carbon Archive.canvas",
-    "00_Resources/Publications/Comparison of life cycle assessment databases.md",
+    "00_Resources/00_PublicationDocuments",
+    "00_Resources/Carbon Primer for Architects/EIO-based Data.md",
     "00_Resources/Publications/World Building Life-Cycle Based Databases and Repositories for the Building and Construction Sector.md",
+    "00_Resources/Publications/Comparison of life cycle assessment databases.md",
     "00_Resources/Publications/LCA databases focused on construction materials - A Review.md",
+    "00_Resources/Material Databases/CFP.md",
+    "00_Templates/Data.md",
+    "00_Resources/Material Databases/ICE.md",
+    "00_Resources/Material Databases/Synergia.md",
+    "00_Resources/Material Databases/IBO.md",
+    "00_Resources/Material Databases/Ecoinvent.md",
+    "00_Resources/Material Databases/GaBi.md",
+    "00_Resources/Material Databases/EC3.md",
+    "00_Resources/Material Databases/EPiC.md",
+    "00_Resources/Initiatives/Grace Farms - Design for Freedom.md",
+    "00_Resources/Initiatives/Architecture 2030.md",
+    "00_Notes/Week 1 - Progress.md",
     "00_Resources/Publications/Comparative whole building life cycle assessment of renovation and new construction.md",
     "00_Resources/Publications/Untitled.md",
-    "00_Resources/Material Databases/GaBi.md",
     "00_Resources/Publications",
     "00_Resources/Initiatives/LEED Building Life Cycle Impact Reduction Credit, Option 4.md",
-    "00_Resources/Material Databases/EC3.md",
     "00_Resources/Material Databases/Athena.md",
-    "00_Resources/Material Databases/EPiC.md",
-    "00_Resources/Material Databases/ICE.md",
     "00_Resources/Initiatives/The AIA 2030 Commitment.md",
     "00_Sketch Pad.md",
     "00_Resources/Carbon Primer for Architects/AIA-CLF Embodied Carbon Toolkit for Architects.md",
-    "00_Resources/Images",
+    "00_Resources/00_Images",
     "00_Notes",
     "00_Resources/Initiatives",
     "00_Resources/Material Databases",
@@ -298,8 +321,6 @@
     "00_Resources/Carbon Primer for Architects",
     "00_Resources",
     "00_Categories",
-    "00_Templates/Data.md",
-    "README.md",
-    "Carbon Primer for Architects"
+    "README.md"
   ]
 }

@@ -6,3 +6,7 @@ Parent:
 ---
 Documentation
 https://lcadatabase.sphera.com/dataset-documentation-download/?download=Download+Data
+
+Source:
+PE International
+Germany-based carbon database
