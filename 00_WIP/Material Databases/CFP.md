@@ -16,6 +16,6 @@ Temporal Scope: Annual average, mainly 2000
 Technological Scope: Average of current tech
 Electricity Composition: National average mix
 System Boundary: Clearly stated
-Allocation Method: Eeconomic value and physical relation
+Allocation Method: Economic value and physical relation
 Parent:
 ---
