@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Resources/Material Databases/EC3.md",
+                "file": "00_WIP/Material Databases/EC3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Resources/Material Databases/Ecoinvent.md",
+                "file": "00_WIP/Material Databases/Ecoinvent.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Resources/Material Databases/IBO.md",
+                "file": "00_WIP/Material Databases/IBO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Resources/Carbon Primer for Architects/EIO-based Data.md",
+                "file": "00_WIP/Carbon Primer for Architects/EIO-based Data.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -288,38 +288,38 @@
   "lastOpenFiles": [
     "00_Templates/Database.md",
     "Carbon Archive.canvas",
-    "00_Resources/00_PublicationDocuments",
-    "00_Resources/Carbon Primer for Architects/EIO-based Data.md",
-    "00_Resources/Publications/World Building Life-Cycle Based Databases and Repositories for the Building and Construction Sector.md",
-    "00_Resources/Publications/Comparison of life cycle assessment databases.md",
-    "00_Resources/Publications/LCA databases focused on construction materials - A Review.md",
-    "00_Resources/Material Databases/CFP.md",
+    "00_WIP/00_PublicationDocuments",
+    "00_WIP/Carbon Primer for Architects/EIO-based Data.md",
+    "00_WIP/Publications/World Building Life-Cycle Based Databases and Repositories for the Building and Construction Sector.md",
+    "00_WIP/Publications/Comparison of life cycle assessment databases.md",
+    "00_WIP/Publications/LCA databases focused on construction materials - A Review.md",
+    "00_WIP/Material Databases/CFP.md",
     "00_Templates/Data.md",
-    "00_Resources/Material Databases/ICE.md",
-    "00_Resources/Material Databases/Synergia.md",
-    "00_Resources/Material Databases/IBO.md",
-    "00_Resources/Material Databases/Ecoinvent.md",
-    "00_Resources/Material Databases/GaBi.md",
-    "00_Resources/Material Databases/EC3.md",
-    "00_Resources/Material Databases/EPiC.md",
-    "00_Resources/Initiatives/Grace Farms - Design for Freedom.md",
-    "00_Resources/Initiatives/Architecture 2030.md",
+    "00_WIP/Material Databases/ICE.md",
+    "00_WIP/Material Databases/Synergia.md",
+    "00_WIP/Material Databases/IBO.md",
+    "00_WIP/Material Databases/Ecoinvent.md",
+    "00_WIP/Material Databases/GaBi.md",
+    "00_WIP/Material Databases/EC3.md",
+    "00_WIP/Material Databases/EPiC.md",
+    "00_WIP/Initiatives/Grace Farms - Design for Freedom.md",
+    "00_WIP/Initiatives/Architecture 2030.md",
     "00_Notes/Week 1 - Progress.md",
-    "00_Resources/Publications/Comparative whole building life cycle assessment of renovation and new construction.md",
+    "00_WIP/Publications/Comparative whole building life cycle assessment of renovation and new construction.md",
     "00_Resources/Publications/Untitled.md",
-    "00_Resources/Publications",
-    "00_Resources/Initiatives/LEED Building Life Cycle Impact Reduction Credit, Option 4.md",
-    "00_Resources/Material Databases/Athena.md",
-    "00_Resources/Initiatives/The AIA 2030 Commitment.md",
+    "00_WIP/Publications",
+    "00_WIP/Initiatives/LEED Building Life Cycle Impact Reduction Credit, Option 4.md",
+    "00_WIP/Material Databases/Athena.md",
+    "00_WIP/Initiatives/The AIA 2030 Commitment.md",
     "00_Sketch Pad.md",
-    "00_Resources/Carbon Primer for Architects/AIA-CLF Embodied Carbon Toolkit for Architects.md",
-    "00_Resources/00_Images",
+    "00_WIP/Carbon Primer for Architects/AIA-CLF Embodied Carbon Toolkit for Architects.md",
+    "00_WIP/00_Images",
     "00_Notes",
-    "00_Resources/Initiatives",
-    "00_Resources/Material Databases",
-    "00_Resources/Regulations",
-    "00_Resources/Carbon Primer for Architects",
-    "00_Resources",
+    "00_WIP/Initiatives",
+    "00_WIP/Material Databases",
+    "00_WIP/Regulations",
+    "00_WIP/Carbon Primer for Architects",
+    "00_WIP",
     "00_Categories",
     "README.md"
   ]
