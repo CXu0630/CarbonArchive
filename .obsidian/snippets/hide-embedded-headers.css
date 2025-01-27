@@ -1,0 +1,10 @@
+/* Hide embedded note titles */
+.markdown-embed .markdown-embed-title {
+  display: none !important; /* Force override */
+}
+
+/* Optional: Remove spacing left by the hidden title */
+.markdown-embed {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
