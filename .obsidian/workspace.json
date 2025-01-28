@@ -42,84 +42,22 @@
             }
           },
           {
-            "id": "913e92beeb26c8db",
+            "id": "8f875249d2ec0463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_WIP/Regulations/DAIA.md",
+                "file": "00_WIP/Carbon Primer for Architects/Allocation Method.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DAIA"
-            }
-          },
-          {
-            "id": "34c9fc83683c6428",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Carbon Archive.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Carbon Archive"
-            }
-          },
-          {
-            "id": "2603b2e9e921a10b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_WIP/Material Databases/Synergia.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Synergia"
-            }
-          },
-          {
-            "id": "56a21e57bf9a3f46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Notes/Week 1 - Progress.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 1 - Progress"
-            }
-          },
-          {
-            "id": "0fc458d234ac06ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_WIP/Material Databases/CFP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CFP"
+              "title": "Allocation Method"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,45 +209,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fc458d234ac06ee",
+  "active": "8f875249d2ec0463",
   "lastOpenFiles": [
+    "00_WIP/Carbon Primer for Architects/Physical Allocation.md",
+    "00_WIP/00_PublicationDocuments/Life Cycle Assessment_ Theory and Practice -- Michael Z_ Hauschild,Ralph K_ Rosenbaum,Stig Irving Olsen .pdf",
+    "00_WIP/00_PublicationDocuments/LIFE CYCLE ASSESSMENT -- KATHRINA SIMONEN.pdf",
     "00_WIP/Home.md",
-    "00_WIP/Regulations/DAIA.md",
     "00_Sketch Pad.md",
+    "00_WIP/Publications/Life Cycle Assessment Theory and Practice.md",
     "00_Notes/Week 1 - Progress.md",
+    "00_WIP/Carbon Primer for Architects/Allocation Method.md",
+    "00_WIP/00_PublicationDocuments/LIFE CYCLE ASSESSMENT -- KATHRINA SIMONEN, Simonen, Kathrina, Kathrina Simonen -- 2014, 2014 -- ROUTLEDGE -- 9780415702416 -- b226a4eeda82cc406e2cf8533940f398 -- Anna’s Archive.pdf",
+    "00_WIP/00_PublicationDocuments/Life Cycle Assessment_ Theory and Practice -- Michael Z_ Hauschild,Ralph K_ Rosenbaum,Stig Irving Olsen -- 1, 2018 -- Hauschild, Michael, Olsen, Stig -- 9783319564746 -- 1236b9e05bedadbea76c0a21496f4897 -- Anna’s .pdf",
+    "00_WIP/Carbon Primer for Architects/AIA-CLF Embodied Carbon Toolkit for Architects.md",
+    "00_WIP/Carbon Primer for Architects/Economic Allocation.md",
+    "00_WIP/Carbon Primer for Architects/EIO-based Data.md",
+    "00_WIP/Carbon Primer for Architects/Process-based Data.md",
+    "00_WIP/Publications/Eco-costs calculations on wood.md",
+    "00_WIP/Regulations/DAIA.md",
+    "Carbon Archive.canvas",
     "00_WIP/Material Databases/Synergia.md",
+    "00_WIP/Material Databases/CFP.md",
     "00_WIP/Materials",
     "00_WIP/Material Databases/Ecoinvent.md",
     "00_WIP/Material Databases/ICE.md",
     "00_WIP/Material Databases/IBO.md",
     "00_WIP/Material Databases/GaBi.md",
     "00_WIP/Material Databases/Athena.md",
-    "00_WIP/Material Databases/CFP.md",
-    "00_WIP/Carbon Primer for Architects/Process-based Data.md",
     "00_WIP/Regulations/CML2001.md",
     "00_WIP/Material Databases/EC3.md",
-    "Carbon Archive.canvas",
     "00_WIP/Material Databases/Databases.md",
-    "00_WIP/Carbon Primer for Architects/EIO-based Data.md",
-    "00_WIP/Carbon Primer for Architects/Allocation Method.md",
     "00_WIP/WIP canvas.canvas",
     "00_WIP/Regulations/IPCC SAR.md",
     "00_WIP/Material Databases/EPiC.md",
     "00_WIP/Publications/Comparison of life cycle assessment databases.md",
-    "00_WIP/Publications/Comparative whole building life cycle assessment of renovation and new construction.md",
     "00_WIP/00_PublicationDocuments/Comparison_of_life_cycle_assessment_databases_a_case_study_on_building_assessment.pdf",
-    "README.md",
-    "00_Templates/Database.md",
     "00_WIP/00_PublicationDocuments",
-    "00_WIP/Publications/World Building Life-Cycle Based Databases and Repositories for the Building and Construction Sector.md",
-    "00_WIP/Publications/LCA databases focused on construction materials - A Review.md",
-    "00_Templates/Data.md",
     "00_WIP/Publications",
     "00_WIP/00_Images",
-    "00_Notes",
-    "00_WIP/Initiatives",
-    "00_WIP/Material Databases",
-    "00_WIP/Regulations",
-    "00_WIP/Carbon Primer for Architects"
+    "00_Notes"
   ]
 }
