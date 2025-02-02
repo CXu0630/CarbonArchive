@@ -1,0 +1,11 @@
+---
+Date Created: 2025-02-01 18:03
+Source: 
+Category:
+  - Definition
+Parent:
+---
+## Definition
+Declared units are necessary for carbon databases and EPDs. They are quantified reference units used to express the environmental impact of a product **without** a defined function or use scenario. In an EPD for instance, a material may have $X \space kgCO_2e$ of embodied carbon per declared unit of $1 \space kg$ of material.
+
+Declared units are often used in [[LCA]]s and similar analysis when the [[Functional Unit]] is not available or when the data for the material can be used in many different applications.

@@ -5,3 +5,11 @@ Category:
   - Definition
 Parent:
 ---
+## Definition
+Whole building life cycle assessments (WBLCA) measure all of the flows between a building and nature over its lifetime and then estimates the resulting impacts on air, land and water. The cradle-to-grave lifetime of a building includes manufacturing and transporting of construction materials, the process of construction, a long phase of building occupancy and maintenance, demolition, and removal of waste materials. Resources are consumed and emissions created during every life phase. ^def
+
+![[wblca-stages.png]]
+A general graph representing life cycle stages of a building.
+
+Carbon calculations in WBLCAs can be broken down into [[Embodied Carbon]] and [[Operational Carbon]].
+
