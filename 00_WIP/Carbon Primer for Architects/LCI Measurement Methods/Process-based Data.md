@@ -17,3 +17,8 @@ This method requires detailed measurements for every step.
 
 **Can Overlook Indirect Measurements**
 Indirect emissions from broader supply chain, especially for upstream or secondary processes may be overlooked as they are not a step in the production process that is directly accounted for. 
+
+## Example
+The following is an example of an item in a process-based LCI from [[Life Cycle Assessment, Kathrina Simonen]].
+
+![[example-lci-process-based.png]]

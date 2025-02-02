@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_WIP/Carbon Primer for Architects/Measurement Method/Process-based Data.md",
+                "file": "00_WIP/Carbon Primer for Architects/LCI Measurement Methods/EIO-based Data.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Process-based Data"
+              "title": "EIO-based Data"
             }
           },
           {
@@ -212,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,11 +227,21 @@
   },
   "active": "f41c25d6020fe4db",
   "lastOpenFiles": [
-    "00_WIP/Carbon Primer for Architects/Measurement Method/Process-based Data.md",
+    "00_WIP/Carbon Primer for Architects/LCI Measurement Methods/EIO-based Data.md",
+    "00_WIP/00_PublicationDocuments/LIFE CYCLE ASSESSMENT -- KATHRINA SIMONEN.pdf",
+    "00_Resources/Images/example-building-lci-eio-based-2.png",
+    "00_Resources/Images/example-building-lci-eio-based-1.png",
+    "00_WIP/Publications/Life Cycle Assessment, Kathrina Simonen.md",
+    "00_Resources/Images/example-lci-eio-based.png",
+    "00_WIP/Carbon Primer for Architects/LCI Measurement Methods/Process-based Data.md",
+    "00_WIP/Material Databases/Material Databases.md",
     "00_WIP/Carbon Primer for Architects/Database Types/LCI.md",
+    "00_WIP/Material Databases/CEDA.md",
+    "00_WIP/Material Databases/CMU GDI.md",
+    "00_Resources/Images/example-lci-process-based.png",
+    "00_WIP/Material Databases/Federal LCA Commons.md",
     "00_WIP/Carbon Primer for Architects/Database Types/Emissions Inventories.md",
     "00_WIP/Carbon Primer for Architects/Analysis Types/LCA.md",
-    "00_WIP/00_PublicationDocuments/LIFE CYCLE ASSESSMENT -- KATHRINA SIMONEN.pdf",
     "00_WIP/Carbon Primer for Architects/Analysis Types/LCCA.md",
     "00_WIP/Carbon Primer for Architects/Database Types/LCIA.md",
     "00_WIP/Carbon Primer for Architects/Analysis Types/Analysis Types.md",
@@ -253,16 +263,9 @@
     "00_Resources",
     "00_WIP/Material Databases/EC3.md",
     "00_WIP/Material Databases/EPiC.md",
-    "00_WIP/Material Databases/Material Databases.md",
-    "00_Sketch Pad.md",
-    "00_WIP/Home.md",
-    "00_WIP/Carbon Primer for Architects/Measurement Method/EIO-based Data.md",
-    "00_WIP/Carbon Primer for Architects/Measurement Method",
-    "00_WIP/Carbon Primer for Architects/Allocation Method/Physical Allocation.md",
+    "00_WIP/Carbon Primer for Architects/LCI Measurement Methods",
     "00_WIP/Carbon Primer for Architects/Analysis Types",
-    "00_WIP/Carbon Primer for Architects/Allocation Method.md",
     "00_WIP/Carbon Primer for Architects/Allocation Method",
-    "00_WIP/Carbon Primer for Architects/Economic Allocation^def.md",
     "00_WIP/00_PublicationDocuments/Life Cycle Assessment_ Theory and Practice -- Michael Z_ Hauschild,Ralph K_ Rosenbaum,Stig Irving Olsen .pdf",
     "00_WIP/00_PublicationDocuments/LIFE CYCLE ASSESSMENT -- KATHRINA SIMONEN, Simonen, Kathrina, Kathrina Simonen -- 2014, 2014 -- ROUTLEDGE -- 9780415702416 -- b226a4eeda82cc406e2cf8533940f398 -- Anna’s Archive.pdf",
     "Carbon Archive.canvas",
