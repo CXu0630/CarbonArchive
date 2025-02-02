@@ -58,11 +58,11 @@
         "currentTab": 1
       },
       {
-        "id": "2e2802b77bdf0011",
+        "id": "272217ca08965965",
         "type": "tabs",
         "children": [
           {
-            "id": "b9ed2c059c086f56",
+            "id": "f41c25d6020fe4db",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -225,18 +225,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03e42a5a6160cd39",
+  "active": "f41c25d6020fe4db",
   "lastOpenFiles": [
-    "00_WIP/Carbon Primer for Architects/Database and Analysis Types/LCI.md",
+    "00_WIP/Carbon Primer for Architects/Database and Analysis Types/LCA.md",
     "00_WIP/Regulations/ISO14040.md",
+    "00_WIP/Publications/EeBGuide.md",
+    "00_WIP/Publications/ILCD Handbook.md",
     "00_WIP/00_PublicationDocuments/LIFE CYCLE ASSESSMENT -- KATHRINA SIMONEN.pdf",
+    "00_WIP/Carbon Primer for Architects/Database and Analysis Types/LCI.md",
     "00_WIP/Carbon Primer for Architects/Units of Measurement/Functional Unit.md",
     "00_Resources/Images/functional-unit-examples.png",
     "00_WIP/Carbon Primer for Architects/Units of Measurement/Declared Unit.md",
     "00_WIP/Carbon Primer for Architects/Allocation Method/Economic Allocation.md",
     "00_WIP/Carbon Primer for Architects/Allocation Method/Allocation Method.md",
     "00_WIP/Carbon Primer for Architects/Units of Measurement",
-    "00_WIP/Carbon Primer for Architects/Database and Analysis Types/LCA.md",
     "00_WIP/Carbon Primer for Architects/Database and Analysis Types/WBLCA.md",
     "00_WIP/Carbon Primer for Architects/Database and Analysis Types/Operational Carbon.md",
     "00_WIP/Carbon Primer for Architects/Database and Analysis Types/Embodied Carbon.md",
@@ -260,7 +262,6 @@
     "00_WIP/Carbon Primer for Architects/Allocation Method",
     "00_WIP/Carbon Primer for Architects/Economic Allocation^def.md",
     "00_WIP/Publications/AIA-CLF Embodied Carbon Toolkit for Architects.md",
-    "00_WIP/Publications/Sustainability Impact Metrics by Delft University of Technology.md",
     "00_WIP/00_PublicationDocuments/Life Cycle Assessment_ Theory and Practice -- Michael Z_ Hauschild,Ralph K_ Rosenbaum,Stig Irving Olsen .pdf",
     "00_WIP/00_PublicationDocuments/LIFE CYCLE ASSESSMENT -- KATHRINA SIMONEN, Simonen, Kathrina, Kathrina Simonen -- 2014, 2014 -- ROUTLEDGE -- 9780415702416 -- b226a4eeda82cc406e2cf8533940f398 -- Anna’s Archive.pdf",
     "00_WIP/00_PublicationDocuments/Life Cycle Assessment_ Theory and Practice -- Michael Z_ Hauschild,Ralph K_ Rosenbaum,Stig Irving Olsen -- 1, 2018 -- Hauschild, Michael, Olsen, Stig -- 9783319564746 -- 1236b9e05bedadbea76c0a21496f4897 -- Anna’s .pdf",
