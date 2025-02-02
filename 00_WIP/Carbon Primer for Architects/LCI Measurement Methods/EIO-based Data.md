@@ -11,7 +11,14 @@ EIO is a method of measuring life-cycle data. It is one of two most common proce
 
 EIO analysis divides the economy into different sectors and tracks sales between sectors. An EIO estimates the production required in all sectors of the economy to support increases in output of any given sector. An EIO-LCI includes environmental emissions for the activity in each sector, making it possible to compute all upstream production impacts of an increase in production of one sector.
 ## Qualities
-EIO-based data often has a broad scope, but lacks refinement. This method is good for analyzing the overall impact of supply chains, but has difficulty differentiating between variations in production techniques or specific material sources.
+#### Advantages
+- fast screening level LCA
+- broad scope
+#### Disadvantages
+- unable to conduct comparisons within a sector
+- data availability may be more outdated as it relies on reporting by entire sectors
+- less capacity for imported products
+- limited by granularity of economic sector divisions
 
 ## Example
 The following is an example of an EIO-based LCI from [[Life Cycle Assessment, Kathrina Simonen]] pp.75.
