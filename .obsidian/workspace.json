@@ -32,11 +32,32 @@
               "state": {
                 "file": "00_WIP/Carbon Primer for Architects/LCI Measurement Methods/EIO-based Data.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "EIO-based Data"
+            }
+          },
+          {
+            "id": "f7ab69c100520be9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           },
           {
@@ -55,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "272217ca08965965",
@@ -92,7 +113,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -225,7 +247,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03e42a5a6160cd39",
+  "active": "f7ab69c100520be9",
   "lastOpenFiles": [
     "00_WIP/00_PublicationDocuments/LIFE CYCLE ASSESSMENT -- KATHRINA SIMONEN.pdf",
     "00_WIP/Carbon Primer for Architects/LCI Measurement Methods/EIO-based Data.md",
