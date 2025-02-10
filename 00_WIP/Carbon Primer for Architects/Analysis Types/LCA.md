@@ -14,11 +14,11 @@ In architecture, the most commonly dealt with LCAs are [[WBLCA]]s (whole buildin
 
 ## LCA Phases
 ### 1. Goal and Scope Definition
-[[ISO14044]] series requires a goal and scope be stated for an LCA study:
+[[ISO14040]] series requires a goal and scope be stated for an LCA study:
 
-![[ISO14044#14044 LCA Goal]]
+![[ISO14040#14044 LCA Goal]]
 
-![[ISO14044#14044 LCA Scope]]
+![[ISO14040#14044 LCA Scope]]
 
 For a building, the scope is usually a subset of the life cycle phases of the building:
 ![[wblca-stages.png]]
