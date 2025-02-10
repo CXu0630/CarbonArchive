@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 245.5047149658203
   },
   "right": {
     "id": "768ddbf7555f9f07",
@@ -237,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 230.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,7 +250,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59ef44617b789a55",
+  "active": "b70b0f61e909f8b9",
   "lastOpenFiles": [
     "00_WIP/Carbon Primer for Architects/Allocation Method/Allocation Method.md",
     "00_WIP/Carbon Primer for Architects/Carbon Primer for Architects.md",
