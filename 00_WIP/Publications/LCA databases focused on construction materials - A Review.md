@@ -4,3 +4,7 @@ Source: https://www.sciencedirect.com/science/article/pii/S1364032115016263
 Category: 
 Parent:
 ---
+Six chosen features for comparison:
+scope, completeness, transparency, comprehensiveness, update, license
+
+![[lca_database_comparison_standards.png]]

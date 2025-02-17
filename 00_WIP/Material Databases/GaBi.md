@@ -19,5 +19,16 @@ System Boundary: Clearly stated
 Allocation Method: Economic value and physical relation
 Parent:
 ---
-Documentation
+## Definition
+The GaBi database is one of the biggest LCA databases on the current market. This database compiles data from other datasets including [[PlasticsEurope]], [[ELCD]], and [[Eurofer]]. 
+
+Process data provided is updated annually by experts from more than 20 countries.
+
+## Scope
+Data in GaBi is predominantly cradle-to-gate.
+
+## Documentation
 https://lcadatabase.sphera.com/dataset-documentation-download/?download=Download+Data
+
+## References
+[[LCA databases focused on construction materials - A Review]], 3.1.3
