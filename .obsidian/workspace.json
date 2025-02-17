@@ -47,33 +47,9 @@
               "icon": "lucide-file",
               "title": "Analysis Types"
             }
-          },
-          {
-            "id": "4f2918d95fd2c8a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "272217ca08965965",
@@ -244,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f2918d95fd2c8a7",
+  "active": "b70b0f61e909f8b9",
   "lastOpenFiles": [
     "00_WIP/Carbon Primer for Architects/Analysis Types/Analysis Types.md",
     "conflict-files-obsidian-git.md",
