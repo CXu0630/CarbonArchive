@@ -47,9 +47,33 @@
               "icon": "lucide-file",
               "title": "Analysis Types"
             }
+          },
+          {
+            "id": "4f2918d95fd2c8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "272217ca08965965",
@@ -220,10 +244,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03e42a5a6160cd39",
+  "active": "4f2918d95fd2c8a7",
   "lastOpenFiles": [
-    "00_WIP/Regulations/ISO14040.md",
     "00_WIP/Carbon Primer for Architects/Analysis Types/Analysis Types.md",
+    "conflict-files-obsidian-git.md",
+    "00_WIP/Material Databases/U.S.LCI.md",
+    "00_WIP/Material Databases/ProBas.md",
+    "00_WIP/Material Databases/PlasticsEurope.md",
+    "00_WIP/Material Databases/ELCD.md",
+    "00_WIP/Material Databases/CMP.md",
+    "00_WIP/Material Databases/Base Carbone.md",
+    "00_WIP/Material Databases/BEDEC.md",
+    "00_WIP/Initiatives/Organizations/Grace Farms - Design for Freedom.md",
+    "00_WIP/Initiatives/Organizations/European Commission's Institute for Environment and Sustainability.md",
+    "00_WIP/Initiatives/Organizations",
+    "00_WIP/Carbon Primer for Architects/LCA Tools/Umberto 5.md",
+    "00_WIP/Carbon Primer for Architects/LCA Tools/SimaPro 8.md",
+    "00_WIP/Carbon Primer for Architects/LCA Tools/GaBi 5.md",
+    "00_WIP/Carbon Primer for Architects/LCA Tools/Athena Impact Estimator.md",
+    "00_WIP/Carbon Primer for Architects/LCA Tools",
+    "00_WIP/Carbon Primer for Architects/General Terms/BoM.md",
+    "00_WIP/Carbon Primer for Architects/General Terms",
+    "00_Resources/Images/lca_database_comparison_standards.png",
+    "00_WIP/Regulations/ISO14040.md",
     "00_WIP/Carbon Primer for Architects/Allocation Method/Allocation Method.md",
     "00_WIP/Carbon Primer for Architects/LCI Measurement Methods/EIO-based Data.md",
     "00_WIP/00_PublicationDocuments/LIFE CYCLE ASSESSMENT -- KATHRINA SIMONEN.pdf",
@@ -238,31 +281,14 @@
     "00_WIP/Material Databases/CMU GDI.md",
     "00_Resources/Images/example-lci-process-based.png",
     "00_WIP/Material Databases/Federal LCA Commons.md",
-    "00_WIP/Carbon Primer for Architects/Database Types/Emissions Inventories.md",
-    "00_WIP/Carbon Primer for Architects/Analysis Types/LCA.md",
-    "00_WIP/Carbon Primer for Architects/Analysis Types/LCCA.md",
-    "00_WIP/Carbon Primer for Architects/Database Types/LCIA.md",
     "00_WIP/Carbon Primer for Architects/Database Types",
-    "00_WIP/Publications/EeBGuide.md",
-    "00_WIP/Publications/ILCD Handbook.md",
-    "00_WIP/Carbon Primer for Architects/Units of Measurement/Functional Unit.md",
     "00_Resources/Images/functional-unit-examples.png",
-    "00_WIP/Carbon Primer for Architects/Units of Measurement/Declared Unit.md",
-    "00_WIP/Carbon Primer for Architects/Allocation Method/Economic Allocation.md",
     "00_WIP/Carbon Primer for Architects/Units of Measurement",
-    "00_WIP/Carbon Primer for Architects/Analysis Types/WBLCA.md",
-    "00_WIP/Carbon Primer for Architects/Analysis Types/Operational Carbon.md",
-    "00_WIP/Carbon Primer for Architects/Analysis Types/Embodied Carbon.md",
     "00_Resources/Images/wblca-stages.png",
     "00_Resources/Images",
     "00_Resources",
-    "00_WIP/Material Databases/EC3.md",
-    "00_WIP/Material Databases/EPiC.md",
     "00_WIP/Carbon Primer for Architects/LCI Measurement Methods",
     "00_WIP/Carbon Primer for Architects/Analysis Types",
-    "00_WIP/Carbon Primer for Architects/Allocation Method",
-    "00_WIP/00_PublicationDocuments/Life Cycle Assessment_ Theory and Practice -- Michael Z_ Hauschild,Ralph K_ Rosenbaum,Stig Irving Olsen .pdf",
-    "00_WIP/00_PublicationDocuments/LIFE CYCLE ASSESSMENT -- KATHRINA SIMONEN, Simonen, Kathrina, Kathrina Simonen -- 2014, 2014 -- ROUTLEDGE -- 9780415702416 -- b226a4eeda82cc406e2cf8533940f398 -- Anna’s Archive.pdf",
     "Carbon Archive.canvas",
     "00_WIP/WIP canvas.canvas"
   ]

@@ -10,6 +10,7 @@ Life cycle inventory (LCI) is the data-collection portion of an LCA. LCI is the 
 
 LCI databases are usually created based on an LCA.
 
+LCI databases can be made up of [[EIO-based Data]] or [[Process-based Data]].
 ## Example LCI Databases
 [[GaBi]]
 [[Ecoinvent]]
