@@ -13,3 +13,10 @@ Allocation methods in LCA are used to distribute impacts among different product
 ![[Physical Allocation#^def]]
 ### [[Economic Allocation]]
 ![[Economic Allocation#^def]]
+
+## Avoiding Allocation
+When two or more production procedures are evaluated together, to maintain the quality of measured LCA information, it is best to avoid allocation entirely.
+#### Dividing Unit Processes
+Collecting input and output data for two products separately when possible.
+#### System Expansion
+The LCA scope of the primary product is expanded to include the function and typical emissions of the secondary product. The impacts of the secondary product is subtracted from the primary. This method assumes that the co-production of the secondary product will substitute otherwise specific production of that product.
