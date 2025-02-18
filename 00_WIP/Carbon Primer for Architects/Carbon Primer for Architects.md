@@ -22,3 +22,6 @@ In order to process information from [[LCIA]]s to [[LCA]]s (lifecycle assessment
 
 ### [[WBLCA]]: building impacts
 As a building goes through its design phases, an increasingly detailed [[BoM]] (bill of materials) is constructed. By linking each material with its [[LCA]] data, a simple analysis of the [[Embodied Carbon]] of a building is calculated. A [[WBLCA]] will also require data on [[Operational Carbon]], with are measured separately in terms of energy consumption, material refurbishment, and replacement. 
+
+## [[CED]]s and [[LCCA]]s
+[[CED]]s and [[LCCA]]s are not to be confused with [[LCA]]s, although they often track similar scope and life cycles for a studied product. [[CED]]s track the energy consumption of the product within its life cycle, while [[LCCA]]s track its costs.

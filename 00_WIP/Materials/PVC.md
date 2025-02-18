@@ -8,4 +8,5 @@ Parent:
 ---
 ## Embodied Carbon
 [[LCA databases focused on construction materials - A Review]] gives an analysis of the embodied carbon contents of PVC according to various databases:
+
 ![[pvc-embodied-carbon-a-martinez-rocamora.png]]
