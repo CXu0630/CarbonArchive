@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/ReCiPe.md",
+                "file": "00_WIP/Material Databases/ProBas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ReCiPe"
+              "title": "ProBas"
             }
           }
         ],
@@ -198,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +213,8 @@
   },
   "active": "6a6453a4e848c0cf",
   "lastOpenFiles": [
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/IMPACT World+.md",
     "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/ReCiPe.md",
+    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/IMPACT World+.md",
     "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/EPS.md",
     "00_WIP/1 Carbon Primer for Architects/1.9 LCA Tools/ecoQuery.md",
     "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/EF EN15804.md",
