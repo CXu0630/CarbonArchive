@@ -6,7 +6,7 @@ Category:
 Organization: Athena Sustainable Materials Institute
 Country: Canada
 Primary Data Source: 
-Type of Database: 
+Type of Database: Open
 Type of Data: "[[Process-based Data]]"
 Number of Construction Material Data: "70"
 Aggregation of Process and Inventory: 

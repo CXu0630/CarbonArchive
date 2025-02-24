@@ -1,9 +1,9 @@
 ---
-Source: 
+Source: https://plasticseurope.lca-data.com/index.xhtml?stock=default
 Category:
   - Database
 Organization: PlasticsEurope
-Country: 
+Country: Belgium
 Primary Data Source: 
 Type of Database: Open (LCI)
 Type of Data: "[[EIO-based Data]]"
