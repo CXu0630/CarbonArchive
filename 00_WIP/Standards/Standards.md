@@ -4,5 +4,5 @@ Source:
 Category: 
 Parent:
 ---
-The [[ISO 14040]] and [[ISO14044]] standards make up the basis for many standards surrounding LCA analysis. 
+The [[ISO14040]] and [[ISO14044]] standards make up the basis for many standards surrounding LCA analysis. 
 ![[standards_around_ISO14000.png]]![[primary_lca_standards.png]]
