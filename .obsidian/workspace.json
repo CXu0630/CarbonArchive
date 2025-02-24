@@ -34,36 +34,12 @@
             }
           },
           {
-            "id": "03e42a5a6160cd39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_WIP/Carbon Primer for Architects/Analysis Types/Analysis Types.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Analysis Types"
-            }
-          },
-          {
             "id": "f41c25d6020fe4db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_WIP/1 Carbon Primer for Architects/1.5 LCA Analysis Methods/1.5.1 Consequential Analysis.md",
+                "file": "00_WIP/1 Carbon Primer for Architects/1.10 General Terms/Characterization Factor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,23 +54,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.5.1 Consequential Analysis"
+              "title": "Characterization Factor"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c6905276d095a6c6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "59b468b186434943",
+            "id": "df82a867ae8796f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2 Analysis Types.md",
+                "file": "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/Carbon Footprint - IPCC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -109,10 +78,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.2 Analysis Types"
+              "title": "Carbon Footprint - IPCC"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -266,13 +236,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f41c25d6020fe4db",
+  "active": "df82a867ae8796f9",
   "lastOpenFiles": [
-    "00_WIP/1 Carbon Primer for Architects/1.5 LCA Analysis Methods/1.5.1 Attributional Analysis.md",
-    "00_WIP/1 Carbon Primer for Architects/1.5 LCA Analysis Methods/1.5.1 Consequential Analysis.md",
-    "00_WIP/1 Carbon Primer for Architects/1.10 Trivia/Zolca File Format.md",
-    "00_WIP/1 Carbon Primer for Architects/1.8 LCA Tools/OpenLCA.md",
-    "00_WIP/1 Carbon Primer for Architects/1.10 Trivia",
+    "00_WIP/1 Carbon Primer for Architects/1.5 LCA Analysis Types/1.5.1 Consequential Analysis.md",
+    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/Carbon Footprint - IPCC.md",
+    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies",
+    "00_WIP/1 Carbon Primer for Architects/1.5 LCA Analysis Types/1.5.1 Attributional Analysis.md",
+    "00_Sketch Pad.md",
+    "00_WIP/1 Carbon Primer for Architects/1.10 General Terms/Characterization Factor.md",
+    "00_WIP/1 Carbon Primer for Architects/1.9 General Terms/Untitled.md",
+    "00_WIP/1 Carbon Primer for Architects/1.12 Carbon Data/Fossil Methane has a CF of 29.8.md",
+    "00_WIP/1 Carbon Primer for Architects/1.10 General Terms/GWP.md",
+    "00_WIP/1 Carbon Primer for Architects/1.12 Carbon Data/Methane has a GWP-100 of 27.9.md",
+    "00_WIP/1 Carbon Primer for Architects/1.12 Carbon Data/Methane has a GWP-500 of 7.95.md",
+    "00_WIP/1 Carbon Primer for Architects/1.10 General Terms/BoM.md",
+    "00_WIP/1 Carbon Primer for Architects/1.12 Carbon Data/Methane has a GWP-20 of 81.2.md",
+    "00_WIP/Standards/Standards.md",
+    "00_WIP/1 Carbon Primer for Architects/1.12 Carbon Data",
+    "00_WIP/1 Carbon Primer for Architects/1.11 Carbon Data.md",
+    "00_WIP/Material Databases/Material Databases.md",
+    "00_WIP/1 Carbon Primer for Architects/1.11 Trivia/Zolca File Format.md",
+    "00_WIP/1 Carbon Primer for Architects/1.9 LCA Tools/OpenLCA.md",
+    "00_WIP/1 Carbon Primer for Architects/1.11 Trivia",
     "00_WIP/1 Carbon Primer for Architects/1.4 Allocation Method/1.4 Allocation Method.md",
     "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2 Analysis Types.md",
     "00_WIP/1 Carbon Primer for Architects/1.4 Allocation Method/1.4.2 Economic Allocation.md",
@@ -282,19 +267,6 @@
     "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2.6 Operational Carbon.md",
     "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2.5 Embodied Carbon.md",
     "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2.4 CED.md",
-    "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2.3 LCCA.md",
-    "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2.2 WBLCA.md",
-    "00_WIP/1 Carbon Primer for Architects/1.1 Database Types/1.1.3 Emissions Inventories.md",
-    "00_WIP/1 Carbon Primer for Architects/1.1 Database Types/1.1.2 LCIA.md",
-    "00_WIP/1 Carbon Primer for Architects/1.1 Database Types/1.1.1 LCI.md",
-    "00_WIP/Materials/Expanded Polystyrene.md",
-    "00_WIP/Material Databases/ELCD.md",
-    "00_WIP/Material Databases/PlasticsEurope.md",
-    "00_WIP/Material Databases/ProBas.md",
-    "00_WIP/Material Databases/Material Databases.md",
-    "00_WIP/Material Databases/ICE.md",
-    "00_WIP/Material Databases/IBO.md",
-    "00_WIP/Material Databases/Federal LCA Commons.md",
     "00_Resources/Images/eps-embodied-carbon-a-martinez-rocamora.png",
     "00_Resources/Images/eps-embodied-carbon-a-martinez-rocamora.png",
     "00_Resources/Images/concrete-embodied-carbon-paul-astle.png",
@@ -306,14 +278,12 @@
     "00_WIP/00_PublicationDocuments/Comparison_of_life_cycle_assessment_databases_a_case_study_on_building_assessment.pdf",
     "00_WIP/00_PublicationDocuments/comparative-wblca-of-renovation-and-new-construction.pdf",
     "00_WIP/Initiatives/Organizations",
-    "00_WIP/1 Carbon Primer for Architects/1.8 LCA Tools",
-    "00_WIP/1 Carbon Primer for Architects/1.9 General Terms",
+    "00_WIP/1 Carbon Primer for Architects/1.9 LCA Tools",
+    "00_WIP/1 Carbon Primer for Architects/1.10 General Terms",
     "00_Resources/Images/lca_database_comparison_standards.png",
-    "00_WIP/00_PublicationDocuments/LIFE CYCLE ASSESSMENT -- KATHRINA SIMONEN.pdf",
     "00_Resources/Images/example-building-lci-eio-based-2.png",
     "00_Resources/Images/example-building-lci-eio-based-1.png",
     "00_Resources/Images/example-lci-eio-based.png",
-    "00_WIP/1 Carbon Primer for Architects/1.1 Database Types",
     "Carbon Archive.canvas",
     "00_WIP/WIP canvas.canvas"
   ]
