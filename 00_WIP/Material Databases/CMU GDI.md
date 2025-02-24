@@ -6,7 +6,7 @@ Organization: Carnegie Mellon University Green Design Institute
 Country: 
 Primary Data Source: 
 Type of Database: Open (LCI)
-Type of Data: "[[EIO-based Data]]"
+Type of Data: "[[1.3.2 EIO-based Data]]"
 Number of Construction Material Data: 
 Aggregation of Process and Inventory: 
 Impact Assessment Method: 

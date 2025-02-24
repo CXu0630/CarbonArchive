@@ -7,7 +7,7 @@ Organization: Swiss Centre for Life Cycle Inventories
 Country: Switzerland
 Primary Data Source: Industrial Data, Literature Data
 Type of Database: Commercial (LCI)
-Type of Data: "[[Process-based Data]]"
+Type of Data: "[[1.3.1 Process-based Data]]"
 Number of Construction Material Data: "540"
 Aggregation of Process and Inventory: Specified Individually
 Impact Assessment Method: "[[CML2001]]"
@@ -17,7 +17,7 @@ Technological Scope: Average of current tech
 Electricity Composition: National/regional average mix
 System Boundary: Clearly stated
 Allocation Method: Economic value and physical relation
-Parent:
+Parent: 
 ---
 ## Definition
 Ecoinvent was developed by the Swiss Centre for Life Cycle Inventories. It integrates with [[SimaPro 8]], [[GaBi 5]], and [[Umberto 5]]. 

@@ -7,7 +7,7 @@ Organization: Athena Sustainable Materials Institute
 Country: Canada
 Primary Data Source: 
 Type of Database: Open
-Type of Data: "[[Process-based Data]]"
+Type of Data: "[[1.3.1 Process-based Data]]"
 Number of Construction Material Data: "70"
 Aggregation of Process and Inventory: 
 Impact Assessment Method: 
@@ -17,7 +17,7 @@ Technological Scope:
 Electricity Composition: 
 System Boundary: 
 Allocation Method: 
-Parent:
+Parent: 
 ---
 ## Definition
 The Athena database is used by [[Athena Impact Estimator]]. This database includes data for construction materials, energy, transport, construction and demolition processes, maintenance, repair, and waste disposal. The Athena database takes into account differences in transport, energy mix, and recycled material rates of different regions.

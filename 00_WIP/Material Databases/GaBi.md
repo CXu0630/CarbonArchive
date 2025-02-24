@@ -7,7 +7,7 @@ Organization: PE International
 Country: Germany
 Primary Data Source: Industrial Data, Literature Data, Other Database (ELCD, IBU, etc.)
 Type of Database: Commercial (LCI)
-Type of Data: "[[Process-based Data]]"
+Type of Data: "[[1.3.1 Process-based Data]]"
 Number of Construction Material Data: "600"
 Aggregation of Process and Inventory: Specified Individually
 Impact Assessment Method: "[[CML2001]]"
@@ -17,7 +17,7 @@ Technological Scope: Standard of Current Used Technology
 Electricity Composition: National/regional average mix
 System Boundary: Clearly stated
 Allocation Method: Economic value and physical relation
-Parent:
+Parent: 
 ---
 ## Definition
 The GaBi database is one of the biggest LCA databases on the current market. This database compiles data from other datasets including [[PlasticsEurope]], [[ELCD]], and [[Eurofer]]. 

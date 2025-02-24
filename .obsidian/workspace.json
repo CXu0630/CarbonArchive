@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_WIP/Materials/Expanded Polystyrene.md",
+                "file": "00_WIP/1 Carbon Primer for Architects/1.5 LCA Analysis Methods/1.5.1 Consequential Analysis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Expanded Polystyrene"
+              "title": "1.5.1 Consequential Analysis"
             }
           }
         ],
@@ -94,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_WIP/1.0 Carbon Primer for Architects/1.0 Carbon Primer for Architects.md",
+                "file": "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2 Analysis Types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -109,7 +109,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.0 Carbon Primer for Architects"
+              "title": "1.2 Analysis Types"
             }
           }
         ]
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 380.5047149658203
   },
   "right": {
     "id": "768ddbf7555f9f07",
@@ -266,31 +266,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59b468b186434943",
+  "active": "f41c25d6020fe4db",
   "lastOpenFiles": [
+    "00_WIP/1 Carbon Primer for Architects/1.5 LCA Analysis Methods/1.5.1 Attributional Analysis.md",
+    "00_WIP/1 Carbon Primer for Architects/1.5 LCA Analysis Methods/1.5.1 Consequential Analysis.md",
+    "00_WIP/1 Carbon Primer for Architects/1.10 Trivia/Zolca File Format.md",
+    "00_WIP/1 Carbon Primer for Architects/1.8 LCA Tools/OpenLCA.md",
+    "00_WIP/1 Carbon Primer for Architects/1.10 Trivia",
+    "00_WIP/1 Carbon Primer for Architects/1.4 Allocation Method/1.4 Allocation Method.md",
+    "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2 Analysis Types.md",
+    "00_WIP/1 Carbon Primer for Architects/1.4 Allocation Method/1.4.2 Economic Allocation.md",
+    "00_WIP/1 Carbon Primer for Architects/1.4 Allocation Method/1.4.1 Physical Allocation.md",
+    "00_WIP/1 Carbon Primer for Architects/1 Carbon Primer for Architects.md",
+    "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2.1 LCA.md",
+    "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2.6 Operational Carbon.md",
+    "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2.5 Embodied Carbon.md",
+    "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2.4 CED.md",
+    "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2.3 LCCA.md",
+    "00_WIP/1 Carbon Primer for Architects/1.2 Analysis Types/1.2.2 WBLCA.md",
+    "00_WIP/1 Carbon Primer for Architects/1.1 Database Types/1.1.3 Emissions Inventories.md",
+    "00_WIP/1 Carbon Primer for Architects/1.1 Database Types/1.1.2 LCIA.md",
+    "00_WIP/1 Carbon Primer for Architects/1.1 Database Types/1.1.1 LCI.md",
     "00_WIP/Materials/Expanded Polystyrene.md",
-    "00_WIP/1.0 Carbon Primer for Architects/1.0 Carbon Primer for Architects.md",
+    "00_WIP/Material Databases/ELCD.md",
     "00_WIP/Material Databases/PlasticsEurope.md",
     "00_WIP/Material Databases/ProBas.md",
     "00_WIP/Material Databases/Material Databases.md",
     "00_WIP/Material Databases/ICE.md",
     "00_WIP/Material Databases/IBO.md",
     "00_WIP/Material Databases/Federal LCA Commons.md",
-    "00_WIP/Material Databases/Athena.md",
-    "00_WIP/1.0 Carbon Primer for Architects/Analysis Types/LCCA.md",
-    "00_WIP/Publications/LCA databases focused on construction materials - A Review.md",
-    "00_WIP/1.0 Carbon Primer for Architects/Analysis Types/CED.md",
-    "00_WIP/Material Databases/CPM.md",
-    "00_WIP/Publications/How can we reduce the embodied carbon of structural concrete.md",
     "00_Resources/Images/eps-embodied-carbon-a-martinez-rocamora.png",
     "00_Resources/Images/eps-embodied-carbon-a-martinez-rocamora.png",
-    "00_WIP/Materials/PVC.md",
-    "00_WIP/1.0 Carbon Primer for Architects/LCI Measurement Methods/EIO-based Data.md",
-    "00_WIP/Materials/Concrete.md",
-    "00_Templates/Publication.md",
     "00_Resources/Images/concrete-embodied-carbon-paul-astle.png",
-    "00_WIP/Materials/Aluminum.md",
-    "00_WIP/Materials/Steel.md",
     "00_Resources/Images/aluminum-embodied-carbon-a-martinez-rocamora.png",
     "00_WIP/00_PublicationDocuments/lca-databases-focused-on-construction-materials.pdf",
     "00_Resources/Images/pvc-embodied-carbon-a-martinez-rocamora.png",
@@ -298,22 +305,15 @@
     "00_WIP/00_PublicationDocuments/D_Chae et al 2022_World Building Life-Cycle Based Databases_v1.3.pdf",
     "00_WIP/00_PublicationDocuments/Comparison_of_life_cycle_assessment_databases_a_case_study_on_building_assessment.pdf",
     "00_WIP/00_PublicationDocuments/comparative-wblca-of-renovation-and-new-construction.pdf",
-    "00_Sketch Pad.md",
-    "conflict-files-obsidian-git.md",
-    "00_WIP/1.0 Carbon Primer for Architects/Analysis Types/Analysis Types.md",
-    "00_WIP/Material Databases/U.S.LCI.md",
-    "00_WIP/Material Databases/ELCD.md",
-    "00_WIP/Material Databases/Base Carbone.md",
     "00_WIP/Initiatives/Organizations",
-    "00_WIP/1.0 Carbon Primer for Architects/LCA Tools",
-    "00_WIP/1.0 Carbon Primer for Architects/General Terms",
+    "00_WIP/1 Carbon Primer for Architects/1.8 LCA Tools",
+    "00_WIP/1 Carbon Primer for Architects/1.9 General Terms",
     "00_Resources/Images/lca_database_comparison_standards.png",
     "00_WIP/00_PublicationDocuments/LIFE CYCLE ASSESSMENT -- KATHRINA SIMONEN.pdf",
     "00_Resources/Images/example-building-lci-eio-based-2.png",
     "00_Resources/Images/example-building-lci-eio-based-1.png",
     "00_Resources/Images/example-lci-eio-based.png",
-    "00_WIP/1.0 Carbon Primer for Architects/Database Types",
-    "00_WIP/1.0 Carbon Primer for Architects/Units of Measurement",
+    "00_WIP/1 Carbon Primer for Architects/1.1 Database Types",
     "Carbon Archive.canvas",
     "00_WIP/WIP canvas.canvas"
   ]

@@ -7,7 +7,7 @@ Organization: Japan Environmental Management Association for Industry/Advanced I
 Country: Japan
 Primary Data Source: Statistic Data, Literature Data
 Type of Database: Open
-Type of Data: "[[EIO-based Data]]"
+Type of Data: "[[1.3.2 EIO-based Data]]"
 Number of Construction Material Data: 
 Aggregation of Process and Inventory: Specified Individually
 Impact Assessment Method: "[[IPCC SAR]]"
@@ -17,5 +17,5 @@ Technological Scope: Average of current tech
 Electricity Composition: National average mix
 System Boundary: Clearly stated
 Allocation Method: Economic value and physical relation
-Parent:
+Parent: 
 ---
