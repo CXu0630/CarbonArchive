@@ -1,19 +1,19 @@
 ---
-Source: 
+Source: https://github.com/FLCAC-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md
 Category:
   - Database
 Organization: National Renewable Energy Laboratory of the US Department of Energy
 Country: USA
-Primary Data Source: 
+Primary Data Source: Industrial Data, Literature Data
 Type of Database: Open (LCI)
 Type of Data: 
 Number of Construction Material Data: "80"
 Aggregation of Process and Inventory: 
 Impact Assessment Method: 
-Geographical Scope: 
+Geographical Scope: United States
 Temporal Scope: 
 Technological Scope: 
-Electricity Composition: 
+Electricity Composition: Fossil Fuel
 System Boundary: 
 Allocation Method: 
 Parent: 
