@@ -13,7 +13,7 @@ The databases selected are:
 #### European
 [[Ecoinvent]]
 [[ELCD]]
-[[GaBi]]
+[[2.0 Material Databases/GaBi]]
 [[PlasticsEurope]]
 
 #### American
@@ -27,6 +27,6 @@ The databases selected are:
 [[ProBas]]
 
 ### Conclusions
-The study concludes that [[GaBi]] and [[Ecoinvent]] are the two most complete an prominent databases, while [[ELCD]] is the best free database, combining data from various industries.
+The study concludes that [[2.0 Material Databases/GaBi]] and [[Ecoinvent]] are the two most complete an prominent databases, while [[ELCD]] is the best free database, combining data from various industries.
 
 The study concludes that the [[1.2.4 CED]] for the same material from the various databases noticeably fluctuated depending on the database used. The study finds it unlikely, however, that the energy consumption in different countries differ by that much.

@@ -18,6 +18,7 @@ Electricity Composition:
 System Boundary: 
 Allocation Method: 
 Parent: 
+location: 45.4208777,-75.6901106
 ---
 ## Definition
 The Athena database is used by [[Athena Impact Estimator]]. This database includes data for construction materials, energy, transport, construction and demolition processes, maintenance, repair, and waste disposal. The Athena database takes into account differences in transport, energy mix, and recycled material rates of different regions.

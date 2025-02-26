@@ -1,1 +1,35 @@
-{}
+{
+	"nodes":[
+		{"id":"8282b50c49ccdfce","type":"file","file":"00_PublicationDocuments/Comparison_of_life_cycle_assessment_databases_a_case_study_on_building_assessment.pdf","x":410,"y":-1130,"width":400,"height":400},
+		{"id":"d8186be9e18ed8f7","type":"text","text":"# Publications","x":-570,"y":-960,"width":250,"height":60},
+		{"id":"45cb85a6ad79c233","type":"file","file":"6.0 Publications/Comparison of life cycle assessment databases.md","x":-170,"y":-990,"width":400,"height":120},
+		{"id":"326b318013d76f55","type":"file","file":"2.0 Material Databases/Athena.md","x":-170,"y":-609,"width":400,"height":179},
+		{"id":"b07e7ecabb96e3ef","type":"file","file":"2.0 Material Databases/CFP.md","x":-170,"y":-409,"width":400,"height":179},
+		{"id":"e2c2bf2bacb5f13b","type":"file","file":"2.0 Material Databases/EC3.md","x":-170,"y":-210,"width":400,"height":180},
+		{"id":"40b66a7b0d6addf2","type":"file","file":"2.0 Material Databases/Ecoinvent.md","x":-170,"y":-10,"width":400,"height":180},
+		{"id":"63304d27cc7dff7f","type":"file","file":"2.0 Material Databases/EPiC.md","x":-170,"y":190,"width":400,"height":180},
+		{"id":"41c2672e515962ce","type":"file","file":"2.0 Material Databases/GaBi.md","x":-170,"y":390,"width":400,"height":180},
+		{"id":"d451849dda83bb5d","type":"file","file":"2.0 Material Databases/IBO.md","x":-170,"y":590,"width":400,"height":180},
+		{"id":"5f93e0955a7a85a3","type":"file","file":"2.0 Material Databases/ICE.md","x":-170,"y":790,"width":400,"height":160},
+		{"id":"8fafffb260aac4b6","type":"file","file":"2.0 Material Databases/Synergia.md","x":-170,"y":970,"width":400,"height":160},
+		{"id":"96da83c5ec22c4a1","type":"text","text":"# Databases","x":-810,"y":250,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2b6ae60e1ac116d7","fromNode":"45cb85a6ad79c233","fromSide":"right","toNode":"8282b50c49ccdfce","toSide":"left"},
+		{"id":"5e876017655becc2","fromNode":"b07e7ecabb96e3ef","fromSide":"right","toNode":"8282b50c49ccdfce","toSide":"bottom"},
+		{"id":"40f1ad6357c742d0","fromNode":"40b66a7b0d6addf2","fromSide":"right","toNode":"8282b50c49ccdfce","toSide":"bottom"},
+		{"id":"a301d3e8df774e14","fromNode":"41c2672e515962ce","fromSide":"right","toNode":"8282b50c49ccdfce","toSide":"bottom"},
+		{"id":"44e6b0945381b130","fromNode":"d451849dda83bb5d","fromSide":"right","toNode":"8282b50c49ccdfce","toSide":"bottom"},
+		{"id":"70bcf781c98dcbcb","fromNode":"8fafffb260aac4b6","fromSide":"right","toNode":"8282b50c49ccdfce","toSide":"bottom"},
+		{"id":"89c03593310f638d","fromNode":"d8186be9e18ed8f7","fromSide":"right","toNode":"45cb85a6ad79c233","toSide":"left"},
+		{"id":"e57ad05ca3001de1","fromNode":"96da83c5ec22c4a1","fromSide":"right","toNode":"326b318013d76f55","toSide":"left"},
+		{"id":"3a96c2ac325c5462","fromNode":"96da83c5ec22c4a1","fromSide":"right","toNode":"b07e7ecabb96e3ef","toSide":"left"},
+		{"id":"df55178eb346effa","fromNode":"96da83c5ec22c4a1","fromSide":"right","toNode":"e2c2bf2bacb5f13b","toSide":"left"},
+		{"id":"4f0a9801d16f6f0c","fromNode":"96da83c5ec22c4a1","fromSide":"right","toNode":"40b66a7b0d6addf2","toSide":"left"},
+		{"id":"2cdf0cc4957ec847","fromNode":"96da83c5ec22c4a1","fromSide":"right","toNode":"63304d27cc7dff7f","toSide":"left"},
+		{"id":"a4832dd64fc7d5db","fromNode":"96da83c5ec22c4a1","fromSide":"right","toNode":"41c2672e515962ce","toSide":"left"},
+		{"id":"28ec90c8b90ac3ec","fromNode":"96da83c5ec22c4a1","fromSide":"right","toNode":"d451849dda83bb5d","toSide":"left"},
+		{"id":"b69238156870b154","fromNode":"96da83c5ec22c4a1","fromSide":"right","toNode":"5f93e0955a7a85a3","toSide":"left"},
+		{"id":"8b495a255c53b70d","fromNode":"96da83c5ec22c4a1","fromSide":"right","toNode":"8fafffb260aac4b6","toSide":"left"}
+	]
+}

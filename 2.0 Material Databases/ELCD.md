@@ -19,7 +19,7 @@ Allocation Method:
 Parent: 
 Date Created: 2025-02-15 14:06
 ---
-This dataset is integrated and compiled into other larger datasets such as [[GaBi]] and [[PlasticsEurope]].
+This dataset is integrated and compiled into other larger datasets such as [[2.0 Material Databases/GaBi]] and [[PlasticsEurope]].
 
 ## References
 [[LCA databases focused on construction materials - A Review]], 3.1.2

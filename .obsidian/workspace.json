@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_WIP/Material Databases/ProBas.md",
+                "file": "2.0 Material Databases/2.0 Material Databases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ProBas"
+              "title": "2.0 Material Databases"
             }
           }
         ],
@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5047149658203
+    "width": 292.5
   },
   "right": {
     "id": "768ddbf7555f9f07",
@@ -198,7 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,58 +208,59 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-map-view:Open map view": false
     }
   },
   "active": "6a6453a4e848c0cf",
   "lastOpenFiles": [
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/ReCiPe.md",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/IMPACT World+.md",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/EPS.md",
-    "00_WIP/1 Carbon Primer for Architects/1.9 LCA Tools/ecoQuery.md",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/EF EN15804.md",
-    "00_WIP/Standards/EN15804.md",
-    "00_WIP/Standards/DAIA.md",
-    "00_WIP/Standards/CML2001.md",
-    "00_WIP/Standards/ISO21930.md",
-    "00_WIP/Standards/ISO14044.md",
-    "00_WIP/Standards/ISO14040.md",
-    "00_WIP/Standards/Standards.md",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/EF.md",
+    "2.0 Material Databases/Athena.md",
+    "2.0 Material Databases/2.0 Material Databases.md",
+    "1.0 Carbon Primer for Architects/1.0 Carbon Primer for Architects.md",
+    "Untitled.md",
+    "2.0 Material Databases/ProBas.md",
     "00_Sketch Pad.md",
-    "00_WIP/1 Carbon Primer for Architects/1.10 General Terms/Characterization Factor.md",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/Ecosystem Damage Potential.md",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/Ecological Scarcity.md",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/Ecological Footprint.md",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/CExD.md",
-    "00_WIP/1 Carbon Primer for Architects/1.10 General Terms/Exergy.md",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/CED.md",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/Crustal Scarcity Indicator.md",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/CML.md",
-    "00_WIP/1 Carbon Primer for Architects/1.1 Database Types/1.1.4 LCIA Methods.md",
+    "1.0 Carbon Primer for Architects/1.9 LCA Tools/ecoQuery.md",
+    "1.0 Carbon Primer for Architects/1.9 LCA Tools/Athena Impact Estimator.md",
+    "1.0 Carbon Primer for Architects/1.9 LCA Tools/GaBi.md",
+    "1.0 Carbon Primer for Architects/1.9 LCA Tools/Umberto.md",
+    "1.0 Carbon Primer for Architects/1.9 LCA Tools/SimaPro.md",
+    "Carbon Archive.canvas",
+    "WIP canvas.canvas",
+    "4.0 Standards/4.0 Standards.md",
+    "2.0 Material Databases/U.S.LCI.md",
+    "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/ReCiPe.md",
+    "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/IMPACT World+.md",
+    "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/EPS.md",
+    "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/EF EN15804.md",
+    "4.0 Standards/EN15804.md",
+    "4.0 Standards/DAIA.md",
+    "00_WIP/Standards/CML2001.md",
+    "4.0 Standards/ISO21930.md",
+    "4.0 Standards/ISO14044.md",
+    "4.0 Standards/ISO14040.md",
+    "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/EF.md",
+    "1.0 Carbon Primer for Architects/1.10 General Terms/Characterization Factor.md",
+    "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/Ecosystem Damage Potential.md",
     "00_Resources/Images/ecoinvent-lcia-methods.png",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/IPCC.md",
-    "00_WIP/Initiatives/Organizations/IPCC - International Panel on Climate Change.md",
-    "00_WIP/1 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies",
-    "00_WIP/1 Carbon Primer for Architects/1.12 Carbon Data",
-    "00_WIP/1 Carbon Primer for Architects/1.11 Trivia",
+    "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies",
+    "1.0 Carbon Primer for Architects/1.12 Carbon Data",
+    "1.0 Carbon Primer for Architects/1.11 Trivia",
     "00_Resources/Images/eps-embodied-carbon-a-martinez-rocamora.png",
     "00_Resources/Images/eps-embodied-carbon-a-martinez-rocamora.png",
     "00_Resources/Images/concrete-embodied-carbon-paul-astle.png",
     "00_Resources/Images/aluminum-embodied-carbon-a-martinez-rocamora.png",
-    "00_WIP/00_PublicationDocuments/lca-databases-focused-on-construction-materials.pdf",
+    "00_PublicationDocuments/lca-databases-focused-on-construction-materials.pdf",
     "00_Resources/Images/pvc-embodied-carbon-a-martinez-rocamora.png",
     "00_Resources/Images/steel-embodied-carbon-a-martinez-rocamora.png",
-    "00_WIP/00_PublicationDocuments/D_Chae et al 2022_World Building Life-Cycle Based Databases_v1.3.pdf",
-    "00_WIP/00_PublicationDocuments/Comparison_of_life_cycle_assessment_databases_a_case_study_on_building_assessment.pdf",
-    "00_WIP/00_PublicationDocuments/comparative-wblca-of-renovation-and-new-construction.pdf",
-    "00_WIP/Initiatives/Organizations",
-    "00_WIP/1 Carbon Primer for Architects/1.9 LCA Tools",
-    "00_WIP/1 Carbon Primer for Architects/1.10 General Terms",
+    "00_PublicationDocuments/D_Chae et al 2022_World Building Life-Cycle Based Databases_v1.3.pdf",
+    "00_PublicationDocuments/Comparison_of_life_cycle_assessment_databases_a_case_study_on_building_assessment.pdf",
+    "00_PublicationDocuments/comparative-wblca-of-renovation-and-new-construction.pdf",
+    "5.0 Initiatives/Organizations",
+    "1.0 Carbon Primer for Architects/1.9 LCA Tools",
+    "1.0 Carbon Primer for Architects/1.10 General Terms",
     "00_Resources/Images/lca_database_comparison_standards.png",
     "00_Resources/Images/example-building-lci-eio-based-2.png",
-    "00_Resources/Images/example-building-lci-eio-based-1.png",
-    "Carbon Archive.canvas",
-    "00_WIP/WIP canvas.canvas"
+    "00_Resources/Images/example-building-lci-eio-based-1.png"
   ]
 }

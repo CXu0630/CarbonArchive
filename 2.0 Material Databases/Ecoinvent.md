@@ -20,7 +20,7 @@ Allocation Method: Economic value and physical relation
 Parent: 
 ---
 ## Definition
-Ecoinvent was developed by the Swiss Centre for Life Cycle Inventories. It integrates with [[SimaPro 8]], [[GaBi 5]], and [[Umberto 5]]. 
+Ecoinvent was developed by the Swiss Centre for Life Cycle Inventories. It integrates with [[SimaPro]], [[1.0 Carbon Primer for Architects/1.9 LCA Tools/GaBi]], and [[Umberto]]. 
 ## Scope
 Cradle to gate scope model is applied.
 ## References

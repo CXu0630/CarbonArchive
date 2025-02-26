@@ -22,7 +22,7 @@ Date Created: 2025-02-15 14:31
 ## Definition
 The US LCI takes into account input and output flows of energy and materials. This database focuses on metals, wood, and plastics. 
 
-This database is integrated into [[SimaPro 8]].
+This database is integrated into [[SimaPro]].
 ## Notes
 This database assumes that energy sources for manufacturing processes of the materials is 100% from fossil fuel. 
 ## References

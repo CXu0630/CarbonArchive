@@ -2,8 +2,8 @@
 Source: https://data.probas.umweltbundesamt.de/index.xhtml?stock=PUBLIC
 Category:
   - Database
-Organization: 
-Country: 
+Organization: Federal Environment Agency - Germany
+Country: Germany
 Primary Data Source: 
 Type of Database: Open (LCIA)
 Type of Data: 
