@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 Material Databases/2.0 Material Databases.md",
+                "file": "2.0 Material Databases/U.S.LCI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.0 Material Databases"
+              "title": "U.S.LCI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +211,12 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "6a6453a4e848c0cf",
+  "active": "9c9afcbcbfcc2c96",
   "lastOpenFiles": [
-    "2.0 Material Databases/Athena.md",
+    "2.0 Material Databases/U.S.LCI.md",
+    "3.0 Materials/Expanded Polystyrene.md",
     "2.0 Material Databases/2.0 Material Databases.md",
+    "2.0 Material Databases/Athena.md",
     "1.0 Carbon Primer for Architects/1.0 Carbon Primer for Architects.md",
     "Untitled.md",
     "2.0 Material Databases/ProBas.md",
@@ -228,7 +229,6 @@
     "Carbon Archive.canvas",
     "WIP canvas.canvas",
     "4.0 Standards/4.0 Standards.md",
-    "2.0 Material Databases/U.S.LCI.md",
     "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/ReCiPe.md",
     "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/IMPACT World+.md",
     "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/EPS.md",
@@ -241,7 +241,6 @@
     "4.0 Standards/ISO14040.md",
     "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/EF.md",
     "1.0 Carbon Primer for Architects/1.10 General Terms/Characterization Factor.md",
-    "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies/Ecosystem Damage Potential.md",
     "00_Resources/Images/ecoinvent-lcia-methods.png",
     "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies",
     "1.0 Carbon Primer for Architects/1.12 Carbon Data",
