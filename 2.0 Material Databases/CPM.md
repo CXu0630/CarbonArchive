@@ -10,7 +10,7 @@ Type of Data:
 Number of Construction Material Data: 
 Aggregation of Process and Inventory: 
 Impact Assessment Method: 
-Geographical Scope: 
+Geographical Scope: Switzerland
 Temporal Scope: 
 Technological Scope: 
 Electricity Composition: 
@@ -18,6 +18,7 @@ System Boundary:
 Allocation Method: 
 Parent: 
 Date Created: 2025-02-15 14:52
+location: 57.6930247,11.9752922
 ---
 ## Definition
 the CPM LCA database, previously known as LCAiT, is currently maintained by the University of Chalmers. It contains 700 processes assessed using three methodologies ([[EPS]], [[EDIP]], and [[Eco-indicator 99]]). 

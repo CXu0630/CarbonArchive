@@ -18,6 +18,7 @@ System Boundary:
 Allocation Method: 
 Parent: 
 Date Created: 2025-02-01 22:35
+location: 43.583549950000005,-84.77463084566247
 ---
 ## Traits
 ==This database and the research group associated is likely no longer operating.

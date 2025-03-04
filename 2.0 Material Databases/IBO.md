@@ -1,6 +1,6 @@
 ---
 Date Created: 2025-01-23 11:13
-Source: 
+Source: https://www.ibo.at/en/
 Category:
   - Database
 Organization: IBO Austrian Institute for Healthy and Ecological Building GmbH
@@ -18,4 +18,5 @@ Electricity Composition: European/Regional Average Mix
 System Boundary: Clearly stated
 Allocation Method: Economic value and physical relation
 Parent: 
+location: 48.222143,16.354781
 ---

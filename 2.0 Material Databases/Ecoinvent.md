@@ -18,6 +18,7 @@ Electricity Composition: National/regional average mix
 System Boundary: Clearly stated
 Allocation Method: Economic value and physical relation
 Parent: 
+location: 47.3900028,8.5155114
 ---
 ## Definition
 Ecoinvent was developed by the Swiss Centre for Life Cycle Inventories. It integrates with [[SimaPro]], [[1.0 Carbon Primer for Architects/1.9 LCA Tools/GaBi]], and [[Umberto]]. 

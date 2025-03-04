@@ -18,6 +18,7 @@ Electricity Composition: National/regional average mix
 System Boundary: Clearly stated
 Allocation Method: Economic value and physical relation
 Parent: 
+location: 41.884984349999996,-87.62314510224704
 ---
 ## Definition
 The GaBi database is one of the biggest LCA databases on the current market. This database compiles data from other datasets including [[PlasticsEurope]], [[ELCD]], and [[Eurofer]]. 
