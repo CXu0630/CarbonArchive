@@ -18,4 +18,5 @@ Electricity Composition: National average mix
 System Boundary: Clearly stated
 Allocation Method: Economic value and physical relation
 Parent: 
+location: 35.320110,139.649920
 ---

@@ -1,5 +1,5 @@
 ---
-Source: 
+Source: https://itec.es/servicios/bedec/
 Category:
   - Database
 Organization: Institute of Technology of Construction in Catalonia
@@ -10,7 +10,7 @@ Type of Data:
 Number of Construction Material Data: 
 Aggregation of Process and Inventory: 
 Impact Assessment Method: 
-Geographical Scope: 
+Geographical Scope: Spain
 Temporal Scope: 
 Technological Scope: 
 Electricity Composition: 
@@ -18,6 +18,7 @@ System Boundary:
 Allocation Method: 
 Parent: 
 Date Created: 2025-02-15 14:41
+location: 41.392345000000006,2.1851201581894406
 ---
 ## Definition
 BEDEC contains economic and environmental information for more than half a million variations of construction elements. Information on embodied energy, CO2 emissions, and waste disposal are provided. 

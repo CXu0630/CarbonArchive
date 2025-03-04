@@ -1,5 +1,5 @@
 ---
-Source: 
+Source: https://inis.iaea.org/records/r8jr2-0j579
 Category:
   - Database
 Organization: ADEME
@@ -18,6 +18,7 @@ System Boundary:
 Allocation Method: 
 Parent: 
 Date Created: 2025-02-15 14:35
+location: 47.4574255,-0.6012672105879298
 ---
 ## Definition
 The Base Carbone database was designed to determine greenhouse gas balances. The database provides data on CO2 emission factors for France and its islands and colonies. Only gas emissions are shown in the reports.
