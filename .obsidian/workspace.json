@@ -34,6 +34,23 @@
             }
           },
           {
+            "id": "7dc92f753fb67a0e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Carbon Archive.canvas",
+                "viewState": {
+                  "x": -2734.951197885616,
+                  "y": 1572.2750706523275,
+                  "zoom": -1.6666666537110908
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Carbon Archive"
+            }
+          },
+          {
             "id": "6a6453a4e848c0cf",
             "type": "leaf",
             "state": {
@@ -79,30 +96,6 @@
               },
               "icon": "lucide-file",
               "title": "2.0 Material Databases"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e667e167905aca94",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7dc92f753fb67a0e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Carbon Archive.canvas",
-                "viewState": {
-                  "x": -3319.2714172065325,
-                  "y": 1113.797438469416,
-                  "zoom": -2.9999999870444243
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Carbon Archive"
             }
           }
         ]
@@ -224,10 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99_Templates/Data.md"
+                "file": "00_Sketch Pad.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data"
+              "title": "Outline of 00_Sketch Pad"
             }
           },
           {
@@ -259,11 +255,11 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "7dc92f753fb67a0e",
+  "active": "b70b0f61e909f8b9",
   "lastOpenFiles": [
+    "Carbon Archive.canvas",
     "1.0 Carbon Primer for Architects/1.0 Carbon Primer for Architects.md",
     "2.0 Material Databases/ProBas.md",
-    "Carbon Archive.canvas",
     "1.0 Carbon Primer for Architects/1.2 Analysis Types/1.2 Analysis Types.md",
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/Ecological Footprint.md",
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/Ecological Scarcity.md",
