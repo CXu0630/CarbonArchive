@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 Material Databases/BEDEC.md",
+                "file": "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/1.7 LCIA Methodologies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,24 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BEDEC"
-            }
-          },
-          {
-            "id": "7dc92f753fb67a0e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Carbon Archive.canvas",
-                "viewState": {
-                  "x": -96.63422587298132,
-                  "y": -130.72626060389064,
-                  "zoom": -1.0665063614105783
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Carbon Archive"
+              "title": "1.7 LCIA Methodologies"
             }
           },
           {
@@ -99,7 +82,30 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "e667e167905aca94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc92f753fb67a0e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Carbon Archive.canvas",
+                "viewState": {
+                  "x": -302.73700896929563,
+                  "y": 690.5464632895344,
+                  "zoom": -1.3998396990624369
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Carbon Archive"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,15 +259,24 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "7dc92f753fb67a0e",
+  "active": "6a6453a4e848c0cf",
   "lastOpenFiles": [
-    "2.0 Material Databases/BEDEC.md",
-    "2.0 Material Databases/CFP.md",
-    "2.0 Material Databases/2.0 Material Databases.md",
+    "1.0 Carbon Primer for Architects/1.1 Database Types/1.1.4 LCIA Metho.md",
+    "1.0 Carbon Primer for Architects/1.1 Database Types/1.1.2 LCIA.md",
+    "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/1.7 LCIA Methodologies.md",
+    "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/EPS.md",
     "Carbon Archive.canvas",
+    "1.0 Carbon Primer for Architects/1.0 Carbon Primer for Architects.md",
+    "1.0 Carbon Primer for Architects/1.11 Trivia/SPINE - Sustainable Product Information Network.md",
+    "2.0 Material Databases/CPM.md",
+    "2.0 Material Databases/CMU GDI.md",
     "2.0 Material Databases/CEDA.md",
-    "2.0 Material Databases/Base Carbone.md",
+    "2.0 Material Databases/CFP.md",
     "00_Sketch Pad.md",
+    "2.0 Material Databases/BEDEC.md",
+    "2.0 Material Databases/Ecoinvent.md",
+    "2.0 Material Databases/2.0 Material Databases.md",
+    "2.0 Material Databases/Base Carbone.md",
     "2.0 Material Databases/Athena.md",
     "2.0 Material Databases/IDEA.md",
     "1.0 Carbon Primer for Architects/1.9 LCA Tools/Global LCA Data Access.md",
@@ -273,17 +288,9 @@
     "5.0 Initiatives/The AIA 2030 Commitment.md",
     "5.0 Initiatives/LEED Building Life Cycle Impact Reduction Credit, Option 4.md",
     "5.0 Initiatives/Organizations/IPCC - International Panel on Climate Change.md",
-    "5.0 Initiatives/Organizations/Grace Farms - Design for Freedom.md",
-    "5.0 Initiatives/Organizations/European Commission's Institute for Environment and Sustainability.md",
-    "2.0 Material Databases/Federal LCA Commons.md",
-    "2.0 Material Databases/GaBi.md",
-    "2.0 Material Databases/EPiC.md",
-    "2.0 Material Databases/ELCD.md",
-    "2.0 Material Databases/EC3.md",
-    "2.0 Material Databases/Ecoinvent.md",
     "WIP canvas.canvas",
     "00_Resources/Images/ecoinvent-lcia-methods.png",
-    "1.0 Carbon Primer for Architects/1.7 LCIA Assessment Methodologies",
+    "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies",
     "1.0 Carbon Primer for Architects/1.12 Carbon Data",
     "1.0 Carbon Primer for Architects/1.11 Trivia",
     "00_Resources/Images/eps-embodied-carbon-a-martinez-rocamora.png",

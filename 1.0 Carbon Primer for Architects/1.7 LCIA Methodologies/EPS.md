@@ -8,5 +8,7 @@ Parent:
 ## Definition
 Environmental Priority Strategies (EPS) was developed by the Swedish Energy Agency. It is an endpoint method that assesses economic damage caused by emissions and material and energy use.
 
+The EPS system is based on [[SPINE - Sustainable Product Information Network]].
+
 ## References
 https://support.ecoinvent.org/impact-assessment

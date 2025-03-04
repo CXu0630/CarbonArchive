@@ -1,9 +1,9 @@
 ---
-Source: 
+Source: https://www.lifecyclecenter.se/projects/cpm-lca-database/
 Category:
   - Database
-Organization: Swedish Centre for Environmental Assessment of Product and Material Systems
-Country: 
+Organization: Swedish Life Cycle Center
+Country: Switzerland
 Primary Data Source: 
 Type of Database: 
 Type of Data: 
