@@ -41,9 +41,9 @@
               "state": {
                 "file": "Carbon Archive.canvas",
                 "viewState": {
-                  "x": -2734.951197885616,
-                  "y": 1572.2750706523275,
-                  "zoom": -1.6666666537110908
+                  "x": -3816.7629055454286,
+                  "y": 678.8195985608738,
+                  "zoom": -3.000000004318525
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -255,9 +255,10 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "b70b0f61e909f8b9",
+  "active": "9c9afcbcbfcc2c96",
   "lastOpenFiles": [
     "Carbon Archive.canvas",
+    "00_Sketch Pad.md",
     "1.0 Carbon Primer for Architects/1.0 Carbon Primer for Architects.md",
     "2.0 Material Databases/ProBas.md",
     "1.0 Carbon Primer for Architects/1.2 Analysis Types/1.2 Analysis Types.md",
@@ -282,7 +283,6 @@
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/EPS.md",
     "1.0 Carbon Primer for Architects/1.11 Trivia/SPINE - Sustainable Product Information Network.md",
     "2.0 Material Databases/CEDA.md",
-    "00_Sketch Pad.md",
     "WIP canvas.canvas",
     "00_Resources/Images/ecoinvent-lcia-methods.png",
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies",
