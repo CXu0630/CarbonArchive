@@ -97,8 +97,26 @@
               "icon": "lucide-file",
               "title": "2.0 Material Databases"
             }
+          },
+          {
+            "id": "e82b36d80c6b4007",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Carbon Archive.canvas",
+                "viewState": {
+                  "x": -4289.207954181443,
+                  "y": 2877.778889983118,
+                  "zoom": -0.33333333333333254
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Carbon Archive"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -255,10 +273,10 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "9c9afcbcbfcc2c96",
+  "active": "e82b36d80c6b4007",
   "lastOpenFiles": [
-    "Carbon Archive.canvas",
     "00_Sketch Pad.md",
+    "Carbon Archive.canvas",
     "1.0 Carbon Primer for Architects/1.0 Carbon Primer for Architects.md",
     "2.0 Material Databases/ProBas.md",
     "1.0 Carbon Primer for Architects/1.2 Analysis Types/1.2 Analysis Types.md",
