@@ -6,4 +6,4 @@ Category:
 Parent:
 ---
 ## Definition
-Cumulative Energy Demand (CED) is based a method published by Ecoinvent and assesses primary energy usage. This methodology is used to generate [[1.2.4 CED]] databases.
+Cumulative Energy Demand (CED) is based a method published by Ecoinvent in 1997 and assesses primary energy usage as well as energy categories. This methodology is used to generate [[1.2.4 CED]] databases.
