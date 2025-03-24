@@ -6,7 +6,7 @@ Category:
 Parent:
 ---
 ## Definition
-Ecological Footprint measures how much land and water a production process consumes and uses to absorb the waste it generates. The measurements are made in global hectares. It is used to compare consumption against how much nature can regenerate.
+Ecological Footprint measures how much land and water a production process consumes and uses to absorb the waste it generates. The measurements are made in global hectares. It is used to compare consumption against how much nature can regenerate. The LCIA method was published in 2006 and is maintained by the European Commission.
 
 ## Reference
 https://support.ecoinvent.org/impact-assessment

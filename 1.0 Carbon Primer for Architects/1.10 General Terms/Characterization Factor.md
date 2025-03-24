@@ -6,7 +6,7 @@ Category:
 Parent:
 ---
 ## Definition
-A characterization factor is the factor converting an elementary flow into an amount of kg CO2-equivalents. 
+A characterization factor is the factor converting an elementary flow into an amount of environmental impacts such as kg CO2-equivalents. 
 
 By applying CFs to all relevant elementary flows in an impact category, an impact assessment score can be calculated. 
 

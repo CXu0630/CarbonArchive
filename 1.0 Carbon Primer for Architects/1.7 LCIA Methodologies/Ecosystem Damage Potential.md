@@ -6,7 +6,7 @@ Category:
 Parent:
 ---
 ## Definition
-The Ecosystem Damage Potential method was developed by ETH. It assesses land occupation and transformation.
+The Ecosystem Damage Potential method was developed by ETH. It assesses land occupation and transformation. EDP is an endpoint LCIA method. It focuses on translating inventory data (e.g., emissions, energy use) into **ecosystem damage indicators**, often expressed in terms of **biodiversity loss, species extinction risk**, or **ecosystem quality degradation**.
 
 ## References
 https://support.ecoinvent.org/impact-assessment
