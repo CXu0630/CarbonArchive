@@ -37,26 +37,9 @@
             "id": "e82b36d80c6b4007",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Carbon Archive.canvas",
-                "viewState": {
-                  "x": -3757.366057777084,
-                  "y": 2419.473490511801,
-                  "zoom": -0.8833333333333322
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Carbon Archive"
-            }
-          },
-          {
-            "id": "02e93434b50fddb5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/ReCiPe.md",
+                "file": "2.0 Material Databases/CPM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +54,24 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ReCiPe"
+              "title": "CPM"
+            }
+          },
+          {
+            "id": "02e93434b50fddb5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Carbon Archive.canvas",
+                "viewState": {
+                  "x": -2126.157301870793,
+                  "y": 1548.304555757696,
+                  "zoom": -2.6113009034080585
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Carbon Archive"
             }
           },
           {
@@ -242,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,10 +259,24 @@
   },
   "active": "e82b36d80c6b4007",
   "lastOpenFiles": [
-    "1.0 Carbon Primer for Architects/1.10 General Terms/GWP.md",
-    "00_Sketch Pad.md",
+    "2.0 Material Databases/CFP.md",
+    "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/IPCC SAR.md",
     "Carbon Archive.canvas",
+    "2.0 Material Databases/IPCC SAR.md",
+    "4.0 Standards/IPCC SAR.md",
+    "2.0 Material Databases/BEDEC.md",
+    "2.0 Material Databases/CEDA.md",
+    "2.0 Material Databases/Federal LCA Commons.md",
+    "2.0 Material Databases/EPiC.md",
+    "2.0 Material Databases/ELCD.md",
+    "2.0 Material Databases/Ecoinvent.md",
+    "2.0 Material Databases/EC3.md",
+    "2.0 Material Databases/CPM.md",
+    "2.0 Material Databases/Base Carbone.md",
+    "2.0 Material Databases/Athena.md",
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/ReCiPe.md",
+    "00_Sketch Pad.md",
+    "1.0 Carbon Primer for Architects/1.10 General Terms/GWP.md",
     "1.0 Carbon Primer for Architects/1.10 General Terms/BoM.md",
     "1.0 Carbon Primer for Architects/1.10 General Terms/Characterization Factor.md",
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/TRACI.md",
@@ -270,21 +285,6 @@
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/EPS.md",
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/EF EN15804.md",
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/EF.md",
-    "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/Ecosystem Damage Potential.md",
-    "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/Ecological Scarcity.md",
-    "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/Ecological Footprint.md",
-    "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/Crustal Scarcity Indicator.md",
-    "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/CML.md",
-    "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/CExD.md",
-    "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/CED.md",
-    "1.0 Carbon Primer for Architects/1.10 General Terms/Exergy.md",
-    "1.0 Carbon Primer for Architects/1.0 Carbon Primer for Architects.md",
-    "2.0 Material Databases/ProBas.md",
-    "1.0 Carbon Primer for Architects/1.2 Analysis Types/1.2 Analysis Types.md",
-    "2.0 Material Databases/IBO.md",
-    "2.0 Material Databases/PlasticsEurope.md",
-    "2.0 Material Databases/Synergia.md",
-    "2.0 Material Databases/GaBi.md",
     "WIP canvas.canvas",
     "00_Resources/Images/ecoinvent-lcia-methods.png",
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies",

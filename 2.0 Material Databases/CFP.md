@@ -10,7 +10,7 @@ Type of Database: Open
 Type of Data: "[[1.3.2 EIO-based Data]]"
 Number of Construction Material Data: 
 Aggregation of Process and Inventory: Specified Individually
-Impact Assessment Method: "[[IPCC SAR]]"
+Impact Assessment Method: "[[4.0 Standards/IPCC SAR]]"
 Geographical Scope: Japan
 Temporal Scope: Annual average, mainly 2000
 Technological Scope: Average of current tech
