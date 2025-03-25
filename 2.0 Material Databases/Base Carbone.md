@@ -5,16 +5,16 @@ Category:
 Organization: ADEME
 Country: France
 Primary Data Source: Industrial Data, Literature Data
-Type of Database: Open (LCIA)
-Type of Data: 
+Type of Database: Open (LCI)
+Type of Data: "[[1.3.2 EIO-based Data]]"
 Number of Construction Material Data: 
 Aggregation of Process and Inventory: 
 Impact Assessment Method: 
-Geographical Scope: France
+Geographical Scope: France and Colonies
 Temporal Scope: 
 Technological Scope: 
-Electricity Composition: 
-System Boundary: 
+Electricity Composition: National average mix
+System Boundary: Cradle to Grave
 Allocation Method: 
 Parent: 
 Date Created: 2025-02-15 14:35
