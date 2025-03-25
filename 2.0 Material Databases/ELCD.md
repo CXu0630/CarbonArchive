@@ -5,8 +5,8 @@ Category:
 Organization: European Commission
 Country: 
 Primary Data Source: 
-Type of Database: 
-Type of Data: 
+Type of Database: Open (LCI)
+Type of Data: "[[1.3.1 Process-based Data]]"
 Number of Construction Material Data: "300"
 Aggregation of Process and Inventory: 
 Impact Assessment Method: 
@@ -15,7 +15,7 @@ Temporal Scope:
 Technological Scope: 
 Electricity Composition: 
 System Boundary: 
-Allocation Method: 
+Allocation Method: "[[1.4.1 Physical Allocation]]"
 Parent: 
 Date Created: 2025-02-15 14:06
 location: 48.875337,2.335039
