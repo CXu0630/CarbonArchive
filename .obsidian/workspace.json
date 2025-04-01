@@ -34,30 +34,6 @@
             }
           },
           {
-            "id": "e82b36d80c6b4007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.0 Material Databases/Athena.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Athena"
-            }
-          },
-          {
             "id": "02e93434b50fddb5",
             "type": "leaf",
             "state": {
@@ -97,9 +73,33 @@
               "icon": "lucide-file",
               "title": "BoM"
             }
+          },
+          {
+            "id": "80b899cf5364ec08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.0 Carbon Primer for Architects/1.9 LCA Tools/Workflow - USLCI in openLCA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Workflow - USLCI in openLCA"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -256,8 +256,13 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "e82b36d80c6b4007",
+  "active": "80b899cf5364ec08",
   "lastOpenFiles": [
+    "00_Sketch Pad.md",
+    "1.0 Carbon Primer for Architects/1.9 LCA Tools/USLCI database.md",
+    "1.0 Carbon Primer for Architects/1.9 LCA Tools/Workflow - USLCI in openLCA.md",
+    "2.0 Material Databases/U.S.LCI.md",
+    "2.0 Material Databases/Athena.md",
     "2.0 Material Databases/GaBi.md",
     "2.0 Material Databases/Synergia.md",
     "2.0 Material Databases/ProBas.md",
@@ -273,7 +278,6 @@
     "2.0 Material Databases/CPM.md",
     "2.0 Material Databases/BEDEC.md",
     "2.0 Material Databases/Base Carbone.md",
-    "2.0 Material Databases/Athena.md",
     "2.0 Material Databases/CFP.md",
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/IPCC SAR.md",
     "Carbon Archive.canvas",
@@ -281,10 +285,6 @@
     "4.0 Standards/IPCC SAR.md",
     "2.0 Material Databases/CEDA.md",
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/ReCiPe.md",
-    "00_Sketch Pad.md",
-    "1.0 Carbon Primer for Architects/1.10 General Terms/GWP.md",
-    "1.0 Carbon Primer for Architects/1.10 General Terms/BoM.md",
-    "1.0 Carbon Primer for Architects/1.10 General Terms/Characterization Factor.md",
     "WIP canvas.canvas",
     "00_Resources/Images/ecoinvent-lcia-methods.png",
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies",
