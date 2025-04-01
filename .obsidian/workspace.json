@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.0 Material Databases/GaBi.md",
+                "file": "2.0 Material Databases/Athena.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GaBi"
+              "title": "Athena"
             }
           },
           {
@@ -258,13 +258,13 @@
   },
   "active": "e82b36d80c6b4007",
   "lastOpenFiles": [
+    "2.0 Material Databases/GaBi.md",
     "2.0 Material Databases/Synergia.md",
     "2.0 Material Databases/ProBas.md",
     "2.0 Material Databases/PlasticsEurope.md",
     "2.0 Material Databases/IDEA.md",
     "2.0 Material Databases/ICE.md",
     "2.0 Material Databases/IBO.md",
-    "2.0 Material Databases/GaBi.md",
     "2.0 Material Databases/Federal LCA Commons.md",
     "2.0 Material Databases/EPiC.md",
     "2.0 Material Databases/ELCD.md",
