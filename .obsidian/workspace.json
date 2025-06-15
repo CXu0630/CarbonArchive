@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.0 Carbon Primer for Architects/1.9 LCA Tools/Workflow - USLCI in openLCA.md",
+                "file": "1.0 Carbon Primer for Architects/1.1 Database Types/1.1.2 LCIA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -95,7 +95,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Workflow - USLCI in openLCA"
+              "title": "1.1.2 LCIA"
             }
           }
         ],
@@ -242,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,9 +259,10 @@
   },
   "active": "80b899cf5364ec08",
   "lastOpenFiles": [
+    "1.0 Carbon Primer for Architects/1.1 Database Types/1.1.1 LCI.md",
+    "1.0 Carbon Primer for Architects/1.9 LCA Tools/Workflow - USLCI in openLCA.md",
     "00_Sketch Pad.md",
     "1.0 Carbon Primer for Architects/1.9 LCA Tools/USLCI database.md",
-    "1.0 Carbon Primer for Architects/1.9 LCA Tools/Workflow - USLCI in openLCA.md",
     "2.0 Material Databases/U.S.LCI.md",
     "2.0 Material Databases/Athena.md",
     "2.0 Material Databases/GaBi.md",
@@ -284,7 +286,6 @@
     "2.0 Material Databases/IPCC SAR.md",
     "4.0 Standards/IPCC SAR.md",
     "2.0 Material Databases/CEDA.md",
-    "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies/ReCiPe.md",
     "WIP canvas.canvas",
     "00_Resources/Images/ecoinvent-lcia-methods.png",
     "1.0 Carbon Primer for Architects/1.7 LCIA Methodologies",
